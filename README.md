@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hardik-game
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on open sourse projects
+- 📫 A hand for help at hardikgame06@gmail.com
